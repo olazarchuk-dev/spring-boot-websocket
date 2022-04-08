@@ -1,6 +1,7 @@
-Example project which shows how to create a WebSocket server using Spring Boot.
-==============================================================================
+Создание сервера WebSocket с помощью Spring Boot
+================================================
 
+* [Websocket request in Postman - Websocket testing](https://www.youtube.com/watch?v=aSPHr6dbMmo)
 * `Tutorial`: https://javascopes.com/creating-a-websocket-server-with-spring-boot-424o-9846dd7a
 * `Repo`: https://github.com/nexmo-community/websocket-spring-boot
 
