@@ -1,4 +1,4 @@
-package com.websocketdemo;
+package com.websocketdemo.controller;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.socket.BinaryMessage;

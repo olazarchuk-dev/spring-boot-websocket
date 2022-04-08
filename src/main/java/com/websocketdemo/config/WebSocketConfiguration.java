@@ -1,6 +1,6 @@
 package com.websocketdemo.config;
 
-import com.websocketdemo.WebSocketHandler;
+import com.websocketdemo.controller.WebSocketHandler;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.socket.config.annotation.EnableWebSocket;
