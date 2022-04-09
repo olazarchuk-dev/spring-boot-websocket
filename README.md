@@ -21,3 +21,11 @@ Clone the project and run `gradle bootRun` to start it.
   ```
   ![Screenshot-4](screenshot_04.png)
 * https://learn.javascript.ru/websocket
+
+
+---
+
+#### Test WebSocket Servers
+
+* https://www.piesocket.com/websocket-tester
+  ![Screenshot-5](screenshot_05.png)
