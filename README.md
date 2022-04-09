@@ -29,3 +29,5 @@ Clone the project and run `gradle bootRun` to start it.
 
 * https://www.piesocket.com/websocket-tester
   ![Screenshot-5](screenshot_05.png)
+* http://livepersoninc.github.io/ws-test-page
+  ![Screenshot-6](screenshot_06.png)
