@@ -11,3 +11,13 @@
 Server is set to listen on [ws://localhost:8080/socket](ws://localhost:8080/socket) and will respond to both binary and text messages by echoing the contents back to the sender.
 
 Clone the project and run `gradle bootRun` to start it.
+
+* https://www.koskila.net/how-to-test-a-web-socket-connection-in-browser
+  ![Screenshot-3](screenshot_03.png)
+  ```shell
+  let webSocket = new WebSocket('ws://localhost:8080/socket');
+  webSocket.onmessage = function(e) { console.log(e)}
+  webSocket.send("test")
+  ```
+  ![Screenshot-4](screenshot_04.png)
+* https://learn.javascript.ru/websocket
